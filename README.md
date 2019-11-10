@@ -1,2 +1,2 @@
 # Capstone-Project-
-This is used for capstone project
+capstone project as a part of IBM data science professional certification
